@@ -1,0 +1,16 @@
+{
+    "name": "fgta5/entity",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Fgta5\\Entity\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agung Nugroho",
+            "email": "agung_dhewe@yahoo.com"
+        }
+    ],
+    "require": {}
+}
